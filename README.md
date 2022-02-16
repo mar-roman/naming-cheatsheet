@@ -368,3 +368,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ```
 changes
 x2
+x3
